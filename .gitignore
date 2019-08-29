@@ -20,9 +20,6 @@ bower_components/
 # SASS
 .sass-cache/
 
-# CSS
-*.css
-
 # backup
 *.bak
 
