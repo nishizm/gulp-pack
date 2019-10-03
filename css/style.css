@@ -3,7 +3,7 @@ body {
 }
 
 body main {
-  border-radius: 10px;
+  border-radius: 12px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
